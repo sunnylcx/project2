@@ -1,3 +1,4 @@
 redis-server /usr/local/redis/etc/redis.conf  启动redis-server 
 netstart -tunp | grep 6379  查看6379端口是否启用
 /usr/local/redis/bin/redis-cli   启动客服端
+孤苦伶仃发几个了
